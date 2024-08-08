@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Realmi",
+		"ip": "realmi.fi",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "Quutio",
+		"ip": "quut.io",
 		"type": "PC"
 	}
 ]
